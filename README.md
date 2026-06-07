@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img align="right" alt="Bruna Rocha" height="190" src="https://github.com/brunarochasw/brunarochasw/blob/main/download%20(12).jpg?raw=true">
 
 <p align="left"> 
   Olá! Meu nome é Bruna Rocha, sou estudante do 1º período da CESAR School e estou iniciando minha trajetória na área de tecnologia. <strong>Python</strong>.<br>
