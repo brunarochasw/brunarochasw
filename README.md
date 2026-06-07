@@ -18,9 +18,10 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="mailto:br@cesar.school">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+  <a href="#" title="LinkedIn- Bruna Rocha - www.linkedin.com/in/bruna-rochasw">
 
 <!--
 **brunarochasw/brunarochasw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
