@@ -6,15 +6,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **C++, Python, JavaScript.**
+  🦄 Linguagens: C++, Python, JavaScript.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: Bitsy, HTML, CSS
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Para mais contato: ⤵️
 </p>
 
 <p align="left">
