@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá! Meu nome é Bruna Rocha, sou estudante do 1º período da CESAR School e estou iniciando minha trajetória na área de tecnologia. <strong>Python</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  
 </p>
 
 <p align="left">
